@@ -6,4 +6,4 @@
 
 > "欢迎来访!"
 
-<a href ="www.baidu.com"></a>
+<a href="http://www.baidu.com/" rel="external nofollow" target="_blank"  title="bai du">Yahoo</a>
