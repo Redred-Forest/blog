@@ -1,4 +1,4 @@
-> >兰亭修竹的学习笔记
+兰亭修竹的学习笔记
 
 > 金融知识小百科
 
@@ -11,6 +11,9 @@
 <a href="https://mp.weixin.qq.com/s/aygkU9hd2EPlSGM16F5hpQ" rel="external nofollow" target="_blank"  title="baidu">地方银保监部门的职责是什么？</a>
 
 <a href="https://mp.weixin.qq.com/s/Y-wuuTB2Jt2OcpVclZVksw" rel="external nofollow" target="_blank"  title="baidu">地方金融监管局的职责是什么？</a>
+
+<a href="https://github.com/Yellowissea/blog/edit/main/兰亭修竹.jpg" rel="external nofollow" target="_blank"  
+</a>
 
 # 银行业务
 
