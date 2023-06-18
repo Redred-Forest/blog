@@ -1,4 +1,5 @@
 兰亭修竹的精选笔记
+![image](wenzhang.jpg")
 
 > 金融知识小百科
 
@@ -25,4 +26,4 @@
 
 <a href="https://mp.weixin.qq.com/s/OWmEhExtgb1DxtxUee0RkQ" rel="external nofollow" target="_blank"  title="baidu">12图读懂会计基础知识</a>
 
-![image](lanting.jpg")
+
