@@ -25,4 +25,4 @@
 
 <a href="https://mp.weixin.qq.com/s/OWmEhExtgb1DxtxUee0RkQ" rel="external nofollow" target="_blank"  title="baidu">12图读懂会计基础知识</a>
 
-![image](兰亭修竹.jpg")
+![image](lanting.jpg")
