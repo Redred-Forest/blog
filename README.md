@@ -25,6 +25,12 @@
 
 # 会计知识
 
-<a href="https://mp.weixin.qq.com/s/OWmEhExtgb1DxtxUee0RkQ" rel="external nofollow" target="_blank"  title="baidu">12图读懂会计基础知识</a>
+<a href="https://mp.weixin.qq.com/s/OWmEhExtgb1DxtxUee0RkQ" rel="external nofollow" target="_blank"  title="baidu">12图读懂会计基础知识</a
+                                                                                                                                
+                                                                                                                            
+# 合集汇编
 
+<a href="https://mp.weixin.qq.com/s/N5uUevJnwqkSZfXGHVC3Fw" rel="external nofollow" target="_blank"  title="baidu">金融学习分析2022年度笔记</a   
+<a href="https://mp.weixin.qq.com/s/QpSg2MzyjoYsplre-qELHg" rel="external nofollow" target="_blank"  title="baidu">管理学习分析2022年度笔记</a   
+<a href="https://mp.weixin.qq.com/s/B14Q1pJKfOciDVCUluoatg" rel="external nofollow" target="_blank"  title="baidu">生活常识+养生保健合集</a                                                                                                                              
 
