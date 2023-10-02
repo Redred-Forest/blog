@@ -35,6 +35,19 @@
    
 <a href="https://mp.weixin.qq.com/s/QpSg2MzyjoYsplre-qELHg" rel="external nofollow" target="_blank"  title="baidu">管理学习分析2022年度笔记</a>
    
-<a href="https://mp.weixin.qq.com/s/B14Q1pJKfOciDVCUluoatg" rel="external nofollow" target="_blank"  title="baidu">生活常识+养生保健合集</a>
-                                                                                                                              
+<a href="https://mp.weixin.qq.com/s/loMs5P-5IbhPXpnWmw9r9g" rel="external nofollow" target="_blank"  title="baidu">金融时政+重要论述笔记合集</a>
 
+<a href="https://mp.weixin.qq.com/s/cPj35NXK64-rELEifhGgFA" rel="external nofollow" target="_blank"  title="baidu">金融新规+旧规温习笔记合集</a>
+
+
+<a href="https://mp.weixin.qq.com/s/Em-oPlWpgmblK2WDmgrgKg" rel="external nofollow" target="_blank"  title="baidu">金融业务+风险合规笔记合集</a>
+
+<a href="https://mp.weixin.qq.com/s/rIJuQfaun0xGFSd72npG7A" rel="external nofollow" target="_blank"  title="baidu">保险法规+业务学习笔记合集</a>
+
+<a href="https://mp.weixin.qq.com/s/9vmHj55tNeKR45ntVmXd6Q" rel="external nofollow" target="_blank"  title="baidu">金融犯罪+公职人员笔记合集</a>
+
+<a href="https://mp.weixin.qq.com/s/xDXKTccB8TKjrVKUDID4EA" rel="external nofollow" target="_blank"  title="baidu">管理艺术+为人处世笔记合集</a>
+
+<a href="https://mp.weixin.qq.com/s/gKvm65HfaPHbsTVrIZAZuA" rel="external nofollow" target="_blank"  title="baidu">经典美文+讲话发言笔记合集</a>         
+
+<a href="https://mp.weixin.qq.com/s/LO07FRB2XziYbiiGtLaE6A" rel="external nofollow" target="_blank"  title="baidu">生活常识+养生保健笔记合集</a>                   
